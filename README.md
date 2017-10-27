@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/mbrya002/Context/blob/master/LICENSE)
 
 # ConText
-![ConText Website & Wiki](http://www.cs.odu.edu/~411flirt/)
+[ConText Website & Wiki](http://www.cs.odu.edu/~411flirt/)
 
 ConText is a mobile application developed in AndroidStudios that facilitates learning for ESL Students through the use of
 visual puns, American humor, and through linear gameplay. 
